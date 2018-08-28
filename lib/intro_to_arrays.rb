@@ -7,3 +7,7 @@ end
 def first_element(array)
   return array[0]
 end
+def third_element(array)
+  array[2]
+end
+def 
